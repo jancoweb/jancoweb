@@ -1,7 +1,7 @@
 ### Alô, me chamo João Coelho! 👋
 
 - 🔭 Seguindo meu caminho para me tornar um Dev Front End
-- 🌱 Atualmente estudando JavaScript
+- 🌱 Atualmente estudando JavaScript e ReactJS
 - 🤔 Todas as formas de ajudas são bem vindas!
 - 📫 Entre em contato por Email: jancoweb@outlook.com
 <div>

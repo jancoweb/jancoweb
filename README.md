@@ -1,5 +1,5 @@
 ### Hi, my name is João Coelho! 👋
-- 🌱 Currently Studying Software Development at Cubos Academy
+- 🌱 Currently Studying Full-Stack Development at Cubos Academy
 - 📫 Contact: jancoweb@outlook.com
 <div>
   <a href="https://github.com/jancoweb">

@@ -15,8 +15,9 @@
 <img align='center' alt='janco' height='50' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align='center' alt='janco' height='50' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img align='center' alt='janco' height='50' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align='center' alt='postgres' height='50 width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align='center' alt='janco' height='50' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img align='center' alt='janco' height='50' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align='center' alt='postgres' height='50 width='60' src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg"/>
-<img align='center' alt='postgres' height='50 width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+
 </div>      

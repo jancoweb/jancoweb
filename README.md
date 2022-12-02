@@ -3,10 +3,10 @@
  
 - 📌 Undergrad at fullstack development [Cubos Academy](https://github.com/cubos-academy)
 - 📫 Contact: jancoweb@outlook.com
-<div>
+<!-- <div>
   <a href="https://github.com/jancoweb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jancoweb&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
+</div> -->
 
 ##
 

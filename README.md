@@ -1,5 +1,5 @@
 ### Hi, my name is João Coelho! 👋
- I started to study programming in 2021 focusing on front-end development. After exploring JavaScript world I started the path to Fullstack Development. Being self-taught and moved by new challenges, I'm aways searching for new knowledge and I really appreciate team work and love bringing new ideas to the table!
+ I'm a fullstack developer
  
 - 📌 Undergrad at fullstack development [Cubos Academy](https://github.com/cubos-academy)
 - 📚 Currently studing System Analisys and Development at [Descomplica](https://descomplica.com.br/)

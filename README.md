@@ -1,5 +1,5 @@
 ### Hi, my name is João Coelho! 👋
- I'm a fullstack developer
+ I'm a fullstack developer at [TXM-Methods](https://www.txm-methods.com/)
  
 - 📌 Undergrad at fullstack development [Cubos Academy](https://github.com/cubos-academy)
 - 📚 Currently studing System Analisys and Development at [Descomplica](https://descomplica.com.br/)

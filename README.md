@@ -2,8 +2,8 @@
  I'm a fullstack developer
  
 - 📌 Undergrad at fullstack development [Cubos Academy](https://github.com/cubos-academy)
-- 📚 Currently studing System Analisys and Development at [Descomplica](https://descomplica.com.br/)
-- 📫 Contact: jancoweb@outlook.com
+- 📚 Associate Degree in System Analisys and Development
+- 📫 Contact: jpcoelhodev@gmail.com
 <div>
   <a href="https://github.com/jancoweb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jancoweb&layout=compact&theme=chartreuse-dark"/>

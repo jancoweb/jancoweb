@@ -5,7 +5,7 @@
 - 📫 Contact: jpcoelhodev@gmail.com
 <div>
   <a href="https://github.com/jancoweb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jancoweb&layout=compact&theme=chartreuse-dark"/>
+  
 </div>
 
 ##

@@ -1,5 +1,4 @@
 ### Hi, my name is João Coelho! 👋
- I'm a fullstack developer
  
 - 📌 Fullstack developer [Cubos Academy](https://github.com/cubos-academy)
 - 📚 Associate Degree in System Analisys and Development
